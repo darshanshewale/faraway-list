@@ -5,9 +5,6 @@ Faraway is a travel packing app designed to make your travel experience smoother
 
 # URL: https://faraway-list.netlify.app/
 
-## Introduction 
-Faraway simplifies the packing process by providing a checklist of essential items for your trip. You can customize the list based on your destination, trip duration, and personal preferences. Additionally, Faraway offers statistics to help you track your packing progress.
-
 ## Features 🚀🚀🚀
 - **Customizable Packing Lists**: Create packing lists for different types of trips (e.g., beach vacation, business trip, hiking adventure).
 - **Checklist Marking**: Mark items as packed or unpacked.
